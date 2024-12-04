@@ -1,7 +1,7 @@
 # MLDS_422_Final_Project_Critic_Rating_Prediction
 
 Project Overview
-This project is part of the MLDS course at Northwestern University. The goal is to develop a machine learning workflow to predict movie critic ratings using a movie dataset from a PostgreSQL database. The workflow covers the entire machine learning process, including data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
+- This project is part of the MLDS course at Northwestern University. The goal is to develop a machine learning workflow to predict movie critic ratings using a movie dataset from a PostgreSQL database. The workflow covers the entire machine learning process, including data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 
 Repository Contents
 - Code: Includes Jupyter notebooks and Python scripts for all steps in the machine learning workflow.
