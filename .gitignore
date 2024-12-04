@@ -1,0 +1,7 @@
+#temporary files
+*.tmp
+*.temp
+
+#directories
+*__pycache__/
+
