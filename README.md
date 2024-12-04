@@ -10,7 +10,7 @@ Repository Contents
 - Ignore: A .gitignore file is included to avoid uploading unnecessary files.
 
 Steps to Run
-Clone the repo.
+- Clone the repo.
 - Install the dependencies from requirements.txt.
 - Connect to the PostgreSQL database to extract the raw data.
 - Run the Jupyter notebooks or scripts in order for data cleaning, EDA, feature engineering, and modeling.
